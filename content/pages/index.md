@@ -68,7 +68,7 @@ sections:
         url: /
         style: primary
     showRecent: false
-    recentCount: 6
+    recentCount: 2
     styles:
       self:
         height: auto
