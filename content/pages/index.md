@@ -67,7 +67,7 @@ sections:
         label: View all
         url: /
         style: primary
-    showRecent: false
+    showRecent: true
     recentCount: 2
     styles:
       self:
